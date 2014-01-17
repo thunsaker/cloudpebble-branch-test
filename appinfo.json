@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "63953c0c-f1d4-4bf9-b05f-f15186b21592",
+    "appKeys": {},
+    "longName": "branching",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "branching",
+    "companyName": "thunsaker_test",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}

@@ -1,6 +1,7 @@
 // 2014 Thomas Hunsaker @thunsaker
-// blah.c
+// bunch.c
 // CloudPebble-Branching-Test
+// first push to Bananas!
 
 #include <pebble.h>
 

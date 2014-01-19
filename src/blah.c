@@ -1,7 +1,6 @@
 // 2014 Thomas Hunsaker @thunsaker
 // blah.c
 // CloudPebble-Branching-Test
-// Testing a push again...
 
 #include <pebble.h>
 
